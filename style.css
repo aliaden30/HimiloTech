@@ -6,6 +6,7 @@
 }
 
 body {
+    background-image: url(file:///C:/Users/AliA(AZ-NAT1)/Desktop/MSP-Website/About2024717132122.jpg);
     font-family: Arial, sans-serif;
     line-height: 1.6;
     color: #333;
@@ -13,9 +14,12 @@ body {
 }
 
 header {
-    background-color: #333;
-    padding: 20px;
-    text-align: center;
+    min-height: 100vh;
+    width: 100%;
+    background-image: linear-gradient(rgba(4,9,30,0,7),rgba(4,9,30,0,7)), url("file:///D:/Black%20Circle%20Icon%20Business%20Logo.png");
+    background-position: center;
+    background-size: cover;
+    position: relative;
 }
 
 header nav ul {
